@@ -6,7 +6,7 @@
 ## YO, Im hidiksn
 
 
-**I am a coder that learns from other peoples code, I may copy ones work but I make sure to always give them the proper credit if i make it public**
+**I am a coder that learns from other people's code, I may copy ones work but I make sure to always give them the proper credit if i make it public**
 
 ## My skills
 

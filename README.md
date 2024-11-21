@@ -12,18 +12,17 @@
 
 ### Languages I kinda know
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,node.js,basic,,lua&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,bash,debian,java&perline=10)](https://skillicons.dev)
 
-### Languages I'm currently learning.
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,ts&perline=10)](https://skillicons.dev)
+### Stuff i wanna learn
 
-### Software I'm familiar with.
+![My Skills](https://skillicons.dev/icons?i=python,lua&perline=10)
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,sublime,blender,github,gitlab,cloudflare&perline=10)](https://skillicons.dev)
 
-## Contact
+### Software I use
 
-**To contact me, please use my discord. `Jobi#8313`, or `_Jobi_`**
+[![My Skills](https://skillicons.dev/icons?i=vscode,godot,aws,blender,github,replit,unrealengine,unity&perline=10)](https://skillicons.dev)
+
 
 </div>

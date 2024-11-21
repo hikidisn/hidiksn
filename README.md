@@ -2,12 +2,10 @@
   
 <br>
 
-<img ></img>
-<a href="https://avatars.githubusercontent.com/u/115511537?v=4"><img style="height:200px;width:200px;border-radius:20px;border:2px solid gray" src="https://avatars.githubusercontent.com/u/115511537?v=4"></a>
 
-## Hi, I'm JobiDev. A 13 year old web developer.
+## YO, Im hidiksn
 
-## What I specialize in
+## 
 
 **I specialize in creating projects that allow users to get around school or work blocks, including a proxy service (Powered by <a style="color: black; text-decoration: underline;" href="https://github.com/titaniumnetwork-dev/Ultraviolet">Ultraviolet</a>), 100's of games, and ways of completely removing the software from their machines.**
 

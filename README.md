@@ -5,15 +5,14 @@
 
 ## YO, Im hidiksn
 
-## 
 
-**I specialize in creating projects that allow users to get around school or work blocks, including a proxy service (Powered by <a style="color: black; text-decoration: underline;" href="https://github.com/titaniumnetwork-dev/Ultraviolet">Ultraviolet</a>), 100's of games, and ways of completely removing the software from their machines.**
+**I am a coder that learns from other peoples code, I may copy ones work but I make sure to always give them the proper credit if i make it public**
 
-## What I can do
+## My skills
 
-### Languages I use frequently.
+### Languages I kinda know
 
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,python,java,lua&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,node.js,basic,,lua&perline=10)](https://skillicons.dev)
 
 ### Languages I'm currently learning.
 
